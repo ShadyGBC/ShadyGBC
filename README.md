@@ -1,16 +1,24 @@
-### Hi there 👋
+### <center><p style="font-family:'Courier New'">Welcome to my profile!</center>
 
-<!--
-**ShadyGBC/ShadyGBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <center><p style="color:purple"> young producer, skater and programmer</center>
+</br>
+
+- 🎸 Hip-Hop album in progress.
+- 🌱 I’m currently learning HTML, C++, Js.
+- 👥 I’m looking to collaborate with other open-minded programmers.
+- ⚽ Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love art, people and learning hard skills.
+
+### <center><u><b>Contact</u>
+
+<img align="left" alt="shxdy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.youtube.com/shxdy666">Shxdy</a>
+</br>
+<img align="left" alt="shadygramu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://instagram.com/shadygramu">@shadygramu</a>
+</br>
+<img align="left" alt="shxdy666 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><a href="https://facebook.com/shxdy666">Shxdy666</a>
+
+##### <center><p style="color:black">est. 2021</center>
