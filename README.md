@@ -15,7 +15,7 @@
 ### <center><u><b>Contact</u>
 
 <img align="left" alt="shxdy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a href="https://www.youtube.com/shxdy666">Shxdy</a>
+<a href="https://www.youtube.com/shxdy">Shxdy</a>
 </br>
 <img align="left" alt="shadygramu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://instagram.com/shadygramu">@shadygramu</a>
 </br>
