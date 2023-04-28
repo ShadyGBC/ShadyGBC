@@ -15,9 +15,9 @@
 ### <center><u><b>Contact</u>
 
 <img align="left" alt="shxdy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a href="https://www.youtube.com/shxdy">Shxdy</a>
+<a href="https://www.youtube.com/shxdy">Shady</a>
 </br>
-<img align="left" alt="shady | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://instagram.com/livingxshady">shady</a>
+<img align="left" alt="shady | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://instagram.com/livingxshady">Shady</a>
 </br>
 
 ##### <center><p style="color:black">est. 2021</center>
