@@ -6,11 +6,10 @@
 ### <center><p style="color:purple"> young producer, skater and programmer</center>
 </br>
 
-- 🎸 Hip-Hop album in progress.
 - 🌱 I’m currently learning HTML, C++, Js.
 - 👥 I’m looking to collaborate with other open-minded programmers.
 - ⚽ Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love art, people and learning hard skills.
+- ⚡ Fun fact: I love art and learning hard skills.
 
 ### <center><u><b>Contact</u>
 
